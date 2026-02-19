@@ -1,0 +1,8 @@
+name: Apple iCloud
+suffix-domains:
+  - apple-cloudkit.com
+  - icloud-content.com
+  - icloud.com
+  - icloud.com.cn
+  - me.com
+

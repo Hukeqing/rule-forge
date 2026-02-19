@@ -1,0 +1,13 @@
+name: ByteDance Ads
+suffix-domains:
+  - ad.toutiao.com
+  - dsp.toutiao.com
+  - ic.snssdk.com
+  - log.snssdk.com
+  - nativeapp.toutiao.com
+  - pangolin-sdk-toutiao-b.com
+  - pangolin-sdk-toutiao.com
+  - pangolin.snssdk.com
+  - partner.toutiao.com
+  - pglstatp-toutiao.com
+  - sm.toutiao.com

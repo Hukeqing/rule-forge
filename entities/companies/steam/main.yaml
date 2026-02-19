@@ -1,0 +1,16 @@
+name: Steam
+domains:
+  - steambroadcast.akamaized.net
+  - steamcommunity-a.akamaihd.net
+  - steampipe.akamaized.net
+  - steamstore-a.akamaihd.net
+  - steamusercontent-a.akamaihd.net
+  - steamuserimages-a.akamaihd.net
+suffix-domains:
+  - steam-chat.com
+  - steamcommunity.com
+  - steamgames.com
+  - steampowered.com
+  - steamserver.net
+  - steamstat.us
+  - steamstatic.com

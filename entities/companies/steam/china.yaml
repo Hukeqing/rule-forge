@@ -1,0 +1,16 @@
+name: Steam China
+domains:
+  - dl.steam.clngaa.com
+  - dl.steam.ksyna.com
+  - steampipe.steamcontent.tnkjmec.com
+  - steampowered.com.8686c.com
+  - steamstatic.com.8686c.com
+  - wmsjsteam.com
+suffix-domains:
+  - 8686c.com
+  - cm.steampowered.com
+  - steamchina.com
+  - steamcontent.com
+  - steamusercontent.com
+tags:
+  - China Mainland Service

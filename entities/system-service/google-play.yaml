@@ -1,0 +1,17 @@
+name: Google Play
+suffix-domains:
+  - android.com
+  - cache.pack.google.com
+  - crl.pki.goog
+  - dl.google.com
+  - dl.l.google.com
+  - googleapis.cn
+  - googleapis.com
+  - gstatic.cn
+  - gstatic.com
+  - gvt0.com
+  - gvt1.com
+  - gvt2.com
+  - gvt3.com
+  - ocsp.pki.goog
+  - safebrowsing-cache.google.com

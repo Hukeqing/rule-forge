@@ -1,0 +1,6 @@
+name: Microsoft Bing
+suffix-domains:
+  - bing.com
+  - bing.net
+  - bingapis.com
+

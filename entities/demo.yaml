@@ -1,0 +1,13 @@
+name: Demo
+domains:
+  - example.com
+suffix-domains:
+  - example.com
+keyword:
+  - example.com
+ipv4s:
+  - 1.1.1.1/32
+geo-ips:
+  - CN
+tags:
+  - China

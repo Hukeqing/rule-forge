@@ -1,0 +1,3 @@
+name: Google Container Registry
+suffix-domains:
+  - gcr.io

@@ -1,0 +1,9 @@
+name: GitHub
+suffix-domains:
+  - github.com
+  - github.io
+  - githubapp.com
+  - githubassets.com
+  - githubusercontent.com
+keyword:
+  - github

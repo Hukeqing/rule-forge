@@ -1,0 +1,64 @@
+- name: 🎯 Main Direct
+  type: select
+  proxies:
+    - DIRECT
+    - REJECT
+  use:
+    - providers
+- name: 🚀 Main Proxy
+  type: select
+  proxies:
+     - DIRECT
+     - REJECT
+  use:
+    - providers
+- name: 🛑 Main Block
+  type: select
+  proxies:
+    - DIRECT
+    - REJECT
+  use:
+    - providers
+
+- name: 🇨🇳 China Mainland Service
+  type: select
+  proxies:
+    - 🎯 Main Direct
+    - 🚀 Main Proxy
+    - 🛑 Main Block
+- name: 🚧 Developer
+  type: select
+  proxies:
+     - 🎯 Main Direct
+     - 🚀 Main Proxy
+     - 🛑 Main Block
+- name: Ⓜ️ Microsoft Service
+  type: select
+  proxies:
+    - 🎯 Main Direct
+    - 🚀 Main Proxy
+    - 🛑 Main Block
+- name: 🍎 Apple Service
+  type: select
+  proxies:
+    - 🎯 Main Direct
+    - 🚀 Main Proxy
+    - 🛑 Main Block
+- name: 🤖 Android Service
+  type: select
+  proxies:
+    - 🎯 Main Direct
+    - 🚀 Main Proxy
+    - 🛑 Main Block
+- name: 📢 Ads
+  type: select
+  proxies:
+    - 🎯 Main Direct
+    - 🚀 Main Proxy
+    - 🛑 Main Block
+- name: 🐟 Default
+  type: select
+  proxies:
+    - 🎯 Main Direct
+    - 🚀 Main Proxy
+    - 🛑 Main Block

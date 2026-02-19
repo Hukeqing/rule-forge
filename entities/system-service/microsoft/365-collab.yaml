@@ -1,0 +1,31 @@
+name: Microsoft 365 Collab
+suffix-domains:
+  - aspnetcdn.com
+  - assets-yammer.com
+  - lync.com
+  - mstea.ms
+  - o365weve.com
+  - oaspapps.com
+  - office.com
+  - office.net
+  - office365.com
+  - officeppe.net
+  - onenote.com
+  - onenote.net
+  - onestore.ms
+  - sfbassets.com
+  - sfx.ms
+  - sharepoint.com
+  - sharepointonline.com
+  - skype.com
+  - skypeassets.com
+  - skypeforbusiness.com
+  - spoprod-a.akamaihd.net
+  - staffhub.ms
+  - sway-cdn.com
+  - sway-extensions.com
+  - sway.com
+  - visualstudio.com
+  - wunderlist.com
+  - yammer.com
+  - yammerusercontent.com

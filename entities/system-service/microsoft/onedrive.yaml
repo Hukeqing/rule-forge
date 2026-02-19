@@ -1,0 +1,15 @@
+name: Microsoft OneDrive
+keyword:
+  - 1drv
+  - onedrive
+  - skydrive
+suffix-domains:
+  - livefilestore.com
+  - oneclient.sfx.ms
+  - onedrive.com
+  - onedrive.live.com
+  - photos.live.com
+  - skydrive.wns.windows.com
+  - storage.live.com
+  - storage.msn.com
+

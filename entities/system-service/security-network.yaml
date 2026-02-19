@@ -1,0 +1,6 @@
+name: Security Network
+suffix-domains:
+  - openvpn.net
+  - torproject.org
+  - shadowsocks.org
+  - smartdnsproxy.com

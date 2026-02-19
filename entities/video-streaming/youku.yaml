@@ -1,0 +1,8 @@
+name: Youku
+suffix-domains:
+  - soku.com
+  - tudou.com
+  - ykimg.com
+  - youku.com
+tags:
+  - China Mainland Service

@@ -1,0 +1,28 @@
+name: Disney Plus
+domains:
+  - bcbolt446c5271-a.akamaihd.net
+  - cdn.registerdisney.go.com
+  - content.jwplatform.com
+  - edge.api.brightcove.com
+  - videos-f.jwpsrv.com
+suffix-domains:
+  - bam.nr-data.net
+  - bamgrid.com
+  - braze.com
+  - cdn.optimizely.com
+  - cdn.registerdisney.go.com
+  - cws.conviva.com
+  - d9.flashtalking.com
+  - disney-plus.net
+  - disney-portal.my.onetrust.com
+  - disney.demdex.net
+  - disney.my.sentry.io
+  - disneyplus.bn5x.net
+  - disneyplus.com
+  - disneyplus.com.ssl.sc.omtrdc.net
+  - disneystreaming.com
+  - dssott.com
+  - edgedatg.com
+  - execute-api.us-east-1.amazonaws.com
+  - go.com
+  - js-agent.newrelic.com

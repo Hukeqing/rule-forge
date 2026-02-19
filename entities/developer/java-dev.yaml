@@ -1,0 +1,8 @@
+name: Java Dev
+suffix-domains:
+  - jitpack.io
+  - maven.org
+  - mvnrepository.com
+  - sonatype.org
+  - spring.io
+  - spring.net

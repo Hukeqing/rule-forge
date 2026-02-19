@@ -1,0 +1,17 @@
+name: OpenAI
+suffix-domains:
+  - auth0.com
+  - chatgpt.com
+  - client-api.arkoselabs.com
+  - events.statsigapi.net
+  - featuregates.org
+  - identrust.com
+  - intercom.io
+  - intercomcdn.com
+  - openai.com
+  - openaiapi-site.azureedge.net
+  - sentry.io
+  - stripe.com
+  - sora.com
+keyword:
+  - openai

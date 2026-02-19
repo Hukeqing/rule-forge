@@ -1,0 +1,13 @@
+name: Microsoft Azure
+suffix-domains:
+  - azure.com
+  - azure.net
+  - azureedge.net
+  - azureiotcentral.com
+  - azurerms.com
+  - azurewebsites.net
+  - cloudapp.net
+  - cloudappsecurity.com
+  - trafficmanager.net
+  - windowsazure.com
+

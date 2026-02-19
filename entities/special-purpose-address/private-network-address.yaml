@@ -1,0 +1,9 @@
+name: Private Network Address
+domains:
+  - localhost
+ipv4s:
+  - 10.0.0.0/8
+  - 172.16.0.0/12
+  - 192.168.0.0/16
+ipv6s:
+  - fc00::/7

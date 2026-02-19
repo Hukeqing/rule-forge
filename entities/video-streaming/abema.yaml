@@ -1,0 +1,12 @@
+name: Abema
+domains:
+  - api-abematv.bucketeer.jp
+suffix-domains:
+  - abema-tv.com
+  - abema.io
+  - abema.tv
+  - ameba.jp
+  - hayabusa.io
+  - hayabusa.media
+keyword:
+  - abematv.akamaized.net

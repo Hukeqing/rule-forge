@@ -1,0 +1,29 @@
+name: Alibaba
+suffix-domains:
+  - alibaba.com
+  - alibabacloud.com
+  - alibabausercontent.com
+  - alicdn.com
+  - alicloudccp.com
+  - aliexpress.com
+  - aliimg.com
+  - alipay.com
+  - alipayobjects.com
+  - aliyun.com
+  - aliyuncdn.com
+  - aliyuncs.com
+  - aliyundrive.com
+  - amap.com
+  - autonavi.com
+  - hichina.com
+  - mmstat.com
+  - mxhichina.com
+  - taobao.com
+  - taobaocdn.com
+  - tmall.com
+  - tmall.hk
+keyword:
+  - alicdn
+  - alipay
+tags:
+  - China Mainland Service

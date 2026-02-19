@@ -1,0 +1,10 @@
+name: X Ads
+suffix-domains:
+  - ads-twitter.com
+  - ads.twitter.com
+  - analytics.twitter.com
+  - p.twitter.com
+  - scribe.twitter.com
+  - syndication-o.twitter.com
+  - syndication.twitter.com
+  - urls.api.twitter.com

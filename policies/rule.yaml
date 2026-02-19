@@ -1,0 +1,44 @@
+- name: Ads
+  entities:
+    - ads/*
+  group: 📢 Ads
+- name: China Mainland Service
+  tags:
+    - China Mainland Service
+  group: 🇨🇳 China Mainland Service
+- name: Developer
+  entities:
+    - developer/*
+  group: 🚧 Developer
+- name: Apple Service
+  entities:
+    - system-service/apple
+  group: 🍎 Apple Service
+- name: Microsoft Service
+  entities:
+    - system-service/microsoft
+  group: Ⓜ️ Microsoft Service
+- name: Android Service
+  entities:
+    - system-service/android
+  group: 🤖 Android Service
+- name: Direct Ips
+  entities:
+    - special-purpose-address/american-military-network
+    - special-purpose-address/ip-cidr-direct
+    - special-purpose-address/private-network-address
+  group: 🎯 Main Direct
+- name: Unarchive Direct
+  entities:
+    - unarchived/direct
+  group: 🎯 Main Direct
+- name: Unarchive Proxy
+  entities:
+    - unarchived/proxy
+  group: 🚀 Main Proxy
+- name: Others
+  entities:
+    - *
+  group: 🚀 Main Proxy
+- name: default
+  group: 🐟 Default

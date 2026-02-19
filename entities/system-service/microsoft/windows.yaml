@@ -1,0 +1,9 @@
+name: Microsoft Windows
+suffix-domains:
+  - msedge.net
+  - msftconnecttest.com
+  - msftncsi.com
+  - windows-ppe.net
+  - windows.com
+  - windows.net
+  - windowsupdate.com

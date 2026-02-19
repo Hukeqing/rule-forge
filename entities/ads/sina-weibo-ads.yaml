@@ -1,0 +1,23 @@
+name: Sina Weibo Ads
+suffix-domains:
+  - ad.sina.com.cn
+  - adbox.sina.com.cn
+  - add.sina.com.cn
+  - adm.sina.com.cn
+  - alitui.weibo.com.cn
+  - biz.weibo.com.cn
+  - dcads.sina.com.cn
+  - dd.sina.com.cn
+  - dmp.sina.com.cn
+  - game.weibo.com.cn
+  - leju.sina.com.cn
+  - log.mix.sina.com.cn
+  - newspush.sinajs.cn
+  - sax.sina.com.cn
+  - saxd.sina.com.cn
+  - sdkapp.uve.weibo.com
+  - slog.sina.com.cn
+  - tui.weibo.com
+  - wax.weibo.com.cn
+  - wbapp.uve.weibo.com
+  - zymo.mps.weibo.com

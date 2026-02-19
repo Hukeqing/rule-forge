@@ -1,0 +1,7 @@
+name: Apple AppStore
+suffix-domains:
+  - appstore.com
+  - cdn-apple.com
+  - itunes.com
+  - mzstatic.com
+

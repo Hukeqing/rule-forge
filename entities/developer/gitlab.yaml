@@ -1,0 +1,4 @@
+name: GitLab
+suffix-domains:
+  - gitlab.com
+  - gitlab.io

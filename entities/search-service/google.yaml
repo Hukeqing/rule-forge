@@ -1,0 +1,9 @@
+name: Google Search
+keyword:
+  - gmail
+  - google
+suffix-domains:
+  - g.co
+  - toolbarqueries.google.com
+  - tools.google.com
+  - tools.l.google.com

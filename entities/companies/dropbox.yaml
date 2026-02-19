@@ -1,0 +1,8 @@
+name: Dropbox
+suffix-domains:
+  - dropbox.com
+  - dropboxapi.com
+  - dropboxstatic.com
+  - dropboxusercontent.com
+keyword:
+  - dropbox

@@ -1,0 +1,15 @@
+name: MyTVSuper
+domains:
+  - mytvsuperlimited.hb.omtrdc.net
+  - mytvsuperlimited.sc.omtrdc.net
+suffix-domains:
+  - 5itv.tv
+  - encoretvb.com
+  - mytvsuper.com
+  - ocnttv.com
+  - tvb.com
+keyword:
+  - apiproxy-device-prod-nlb-
+  - dualstack.apiproxy-
+  - nowtv100
+  - rthklive

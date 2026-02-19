@@ -1,0 +1,6 @@
+name: ITV
+domains:
+  - itvpnpmobile-a.akamaihd.net
+suffix-domains:
+  - itv.com
+  - itvstatic.com

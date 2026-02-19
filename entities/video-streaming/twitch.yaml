@@ -1,0 +1,10 @@
+name: Twitch
+suffix-domains:
+  - ext-twitch.tv
+  - jtvnw.net
+  - ttvnw.net
+  - twitch-ext.rootonline.de
+  - twitch.tv
+  - twitchcdn.net
+keyword:
+  - ttvnw

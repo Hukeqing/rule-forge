@@ -1,0 +1,18 @@
+name: BBC
+domains:
+  - aod-dash-uk-live.akamaized.net
+  - aod-hls-uk-live.akamaized.net
+  - vod-dash-uk-live.akamaized.net
+  - vod-thumb-uk-live.akamaized.net
+suffix-domains:
+  - bbc.co
+  - bbc.co.uk
+  - bbc.com
+  - bbc.net.uk
+  - bbcfmt.hs.llnwd.net
+  - bbci.co
+  - bbci.co.uk
+  - bidi.net.uk
+keyword:
+  - bbcfmt
+  - uk-live
