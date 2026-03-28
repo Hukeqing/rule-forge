@@ -1,64 +1,65 @@
-- name: 🎯 Main Direct
+- name: 🎯 Direct
   type: select
   proxies:
     - DIRECT
     - REJECT
-  use:
-    - providers
-- name: 🚀 Main Proxy
+- name: 🚀 Proxy
   type: select
   proxies:
      - DIRECT
      - REJECT
   use:
     - providers
-- name: 🛑 Main Block
+- name: 🛑 Block
   type: select
   proxies:
-    - DIRECT
     - REJECT
-  use:
-    - providers
-
+    - DIRECT
 - name: 🇨🇳 China Mainland Service
   type: select
   proxies:
-    - 🎯 Main Direct
-    - 🚀 Main Proxy
-    - 🛑 Main Block
+    - 🎯 Direct
+    - 🚀 Proxy
+    - 🛑 Block
 - name: 🚧 Developer
   type: select
   proxies:
-     - 🎯 Main Direct
-     - 🚀 Main Proxy
-     - 🛑 Main Block
+     - 🎯 Direct
+     - 🚀 Proxy
+     - 🛑 Block
 - name: Ⓜ️ Microsoft Service
   type: select
   proxies:
-    - 🎯 Main Direct
-    - 🚀 Main Proxy
-    - 🛑 Main Block
+    - 🎯 Direct
+    - 🚀 Proxy
+    - 🛑 Block
 - name: 🍎 Apple Service
   type: select
   proxies:
-    - 🎯 Main Direct
-    - 🚀 Main Proxy
-    - 🛑 Main Block
+    - 🎯 Direct
+    - 🚀 Proxy
+    - 🛑 Block
 - name: 🤖 Android Service
   type: select
   proxies:
-    - 🎯 Main Direct
-    - 🚀 Main Proxy
-    - 🛑 Main Block
+    - 🎯 Direct
+    - 🚀 Proxy
+    - 🛑 Block
+- name: 🎮 Game Service
+  type: select
+  proxies:
+    - 🎯 Direct
+    - 🚀 Proxy
+    - 🛑 Block
 - name: 📢 Ads
   type: select
   proxies:
-    - 🎯 Main Direct
-    - 🚀 Main Proxy
-    - 🛑 Main Block
+    - 🎯 Direct
+    - 🚀 Proxy
+    - 🛑 Block
 - name: 🐟 Default
   type: select
   proxies:
-    - 🎯 Main Direct
-    - 🚀 Main Proxy
-    - 🛑 Main Block
+    - 🎯 Direct
+    - 🚀 Proxy
+    - 🛑 Block

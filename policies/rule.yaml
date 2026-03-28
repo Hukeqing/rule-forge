@@ -27,18 +27,22 @@
     - special-purpose-address/american-military-network
     - special-purpose-address/ip-cidr-direct
     - special-purpose-address/private-network-address
-  group: 🎯 Main Direct
+  group: 🎯 Direct
+- name: Game Service
+  entities:
+    - game/*
+  group: 🎮 Game Service
 - name: Unarchive Direct
   entities:
     - unarchived/direct
-  group: 🎯 Main Direct
+  group: 🎯 Direct
 - name: Unarchive Proxy
   entities:
     - unarchived/proxy
-  group: 🚀 Main Proxy
+  group: 🚀 Proxy
 - name: Others
   entities:
     - *
-  group: 🚀 Main Proxy
+  group: 🚀 Proxy
 - name: default
   group: 🐟 Default
