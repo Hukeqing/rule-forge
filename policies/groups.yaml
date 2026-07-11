@@ -45,6 +45,12 @@
     - 🎯 Direct
     - 🚀 Proxy
     - 🛑 Block
+- name: 🇺🇸 AI Service
+  type: select
+  proxies:
+    - 🎯 Direct
+    - 🚀 Proxy
+    - 🛑 Block
 - name: 🎮 Game Service
   type: select
   proxies:

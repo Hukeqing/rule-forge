@@ -1,0 +1,17 @@
+name: Gemini
+
+domains: []
+
+suffix-domains:
+  - ai.google.dev
+  - generativelanguage.googleapis.com
+  - gemini.google.com
+  - makeruite.google.com
+
+keyword: []
+
+ipv4s: []
+
+ipv6s: []
+
+geo-ips: []

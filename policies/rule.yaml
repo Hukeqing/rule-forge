@@ -18,6 +18,10 @@
   entities:
     - system-service/microsoft
   group: Ⓜ️ Microsoft Service
+- name: 🇺🇸 AI Service
+  entities:
+    - ai/*
+  group: 🇺🇸 AI Service
 - name: Android Service
   entities:
     - system-service/android

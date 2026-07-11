@@ -1,0 +1,16 @@
+name: Claude
+
+domains: []
+
+suffix-domains:
+  - anthropic.com
+  - claude.ai
+  - claudeusercontent.com
+
+keyword: []
+
+ipv4s: []
+
+ipv6s: []
+
+geo-ips: []
