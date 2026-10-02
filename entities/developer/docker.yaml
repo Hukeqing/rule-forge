@@ -1,3 +1,14 @@
 name: Docker
+domains:
+  # Docker Desktop 使用的第三方登录、错误上报和支持服务
+  - cdn.auth0.com
+  - notify.bugsnag.com
+  - sessions.bugsnag.com
+  - docker-pinata-support.s3.amazonaws.com
 suffix-domains:
+  # Docker Hub、Registry、登录、Desktop、Scout、Offload 等
   - docker.com
+  # index.docker.io、registry-1.docker.io、auth.docker.io 等
+  - docker.io
+  # Docker Hardened Images
+  - dhi.io
